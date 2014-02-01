@@ -33,3 +33,6 @@
 #projects {
 	padding-bottom: 1em;
 }
+#projects p span {
+	font-size: 0.7em;
+}
