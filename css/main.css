@@ -1,10 +1,13 @@
 .light {
   font-weight: 300;
 }
-.products li {
+#products li {
 	font-size: 0.9em;
 }
-.products li span {
+#products li span {
 	font-size: 1.25em;
 	font-weight: 600;
+}
+#projects.panel {
+	background: #fff;
 }
