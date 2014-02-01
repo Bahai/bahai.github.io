@@ -8,6 +8,9 @@
 	font-size: 1.25em;
 	font-weight: 600;
 }
-#projects.panel {
-	background: #fff;
+.panel.vanilla {
+	background: #fff !important;
+}
+#projects p {
+	font-size: 0.9em;
 }
