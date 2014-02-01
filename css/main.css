@@ -5,12 +5,19 @@
 	font-size: 0.9em;
 }
 #products li span {
-	font-size: 1.25em;
-	font-weight: 600;
+	font-size: 1.6em;
+	font-weight: 300;
 }
 .panel.vanilla {
 	background: #fff !important;
 }
-#projects p {
-	font-size: 0.9em;
+#products h4 {
+	font-size: 1.8em;
+	font-weight: 300;
+	margin-bottom: 1em;
+}
+#projects h4 {
+	font-size: 1.8em;
+	font-weight: 300;
+	margin-bottom: 1em;
 }
