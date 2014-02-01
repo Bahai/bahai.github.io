@@ -1,7 +1,10 @@
 .light {
-  font-weight:300;
+  font-weight: 300;
 }
-li span {
-	font-weight: bold;
+.products li {
+	font-size: 0.9em;
+}
+.products li span {
 	font-size: 1.25em;
+	font-weight: 600;
 }
